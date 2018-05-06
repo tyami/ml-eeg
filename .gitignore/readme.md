@@ -4,8 +4,6 @@ Machine learning study course for EEG
 ## Study materials
 - 
 
-## Hierarchy of deep learning milestones
-
 ## 1 Feature extraction
 - Time-series ERP amplitude properties
  - Maximum value
