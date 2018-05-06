@@ -6,7 +6,7 @@ Machine learning study course for EEG
 
 ## 1 Feature extraction
 - Time-series ERP amplitude properties
- - Maximum value
+  - Maximum value
  - Minimum value
  - Arithmetic mean value
  - Standard deviation
