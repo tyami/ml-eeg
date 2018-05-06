@@ -4,7 +4,12 @@ Machine learning study course for EEG
 ## Study materials
 - 
 
-## 1 Feature extraction
+## 1 Basics
+- What is machine learning?
+- Supervised and Unsupervised learning
+- Dataset segmentation (Training, Validation and Test dataset)
+
+## 2 Feature extraction
 - Time-series ERP amplitude properties
   - Maximum value
   - Minimum value
@@ -25,14 +30,14 @@ Machine learning study course for EEG
 - Spatial properties
   - Frontal Alpha Assymetry
 
-## 2 Feature selection
+## 3 Feature selection
 - Dimension reduction
   - Principal Component Analysis (PCA)
   - Common Spatial Filter (CSP)
   - Partial Least Square (PLS)
   - Autoencoder (Non-linear)
  
-## 3 Classifier
+## 4 Classifier
 - Supervised leaning
   - Discriminant Analysis (DA)
   - Support Vector Machine (SVM)
@@ -43,7 +48,7 @@ Machine learning study course for EEG
   - Multi layer Perceptron (MLP)
   - Deep learning algorithms
  
-## 4 Cross validation
+## 5 Cross validation
  - What are cross validation methods?
    - Leave-one-out cross validation
    - K-fold cross validation
