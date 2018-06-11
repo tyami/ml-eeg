@@ -31,8 +31,9 @@ Machine learning study course for EEG
   - Frontal Alpha Assymetry
 
 ## 3 Feature selection
-- Feature selection
-  - [LASSO](http://blueskyvision.tistory.com/193)
+- Shrinking method
+  - [LASSO: L1 norm](http://blueskyvision.tistory.com/193)
+  - Ridge: L2 norm
 - Dimension reduction
   - Principal Component Analysis (PCA)
   - Common Spatial Filter (CSP)
