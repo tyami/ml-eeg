@@ -31,6 +31,8 @@ Machine learning study course for EEG
   - Frontal Alpha Assymetry
 
 ## 3 Feature selection
+- Feature selection
+  - LASSO
 - Dimension reduction
   - Principal Component Analysis (PCA)
   - Common Spatial Filter (CSP)
