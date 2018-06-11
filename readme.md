@@ -32,7 +32,7 @@ Machine learning study course for EEG
 
 ## 3 Feature selection
 - Feature selection
-  - LASSO
+  - [LASSO](http://blueskyvision.tistory.com/193)
 - Dimension reduction
   - Principal Component Analysis (PCA)
   - Common Spatial Filter (CSP)
