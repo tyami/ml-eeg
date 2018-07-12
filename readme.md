@@ -2,7 +2,7 @@
 Machine learning study course for EEG
 
 ## Study materials
-- 
+-
 
 ## 1 Basics
 - What is machine learning?
@@ -39,9 +39,10 @@ Machine learning study course for EEG
   - Common Spatial Filter (CSP)
   - Partial Least Square (PLS)
   - Autoencoder (Non-linear)
- 
+
 ## 4 Classifier
 - Supervised leaning
+  - Naive Bayes Classifier
   - Discriminant Analysis (DA)
   - Support Vector Machine (SVM)
 - Unsupervised learning
@@ -50,7 +51,7 @@ Machine learning study course for EEG
   - K-means clustering
   - Multi layer Perceptron (MLP)
   - Deep learning algorithms
- 
+
 ## 5 Cross validation
  - What are cross validation methods?
    - Leave-one-out cross validation
