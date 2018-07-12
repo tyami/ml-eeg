@@ -41,7 +41,7 @@ Machine learning study course for EEG
   - Autoencoder (Non-linear)
 
 ## 4 Classifier
-- Supervised leaning
+- Supervised learning
   - Naive Bayes Classifier
   - Discriminant Analysis (DA)
   - Support Vector Machine (SVM)
