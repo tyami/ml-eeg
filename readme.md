@@ -45,12 +45,11 @@ Machine learning study course for EEG
   - Naive Bayes Classifier
   - Discriminant Analysis (DA)
   - Support Vector Machine (SVM)
+  - Multi layer Perceptron (MLP)
 - Unsupervised learning
   - Random Forest
   - K-Nearnest Neighborhood (K-NN)
   - K-means clustering
-  - Multi layer Perceptron (MLP)
-  - Deep learning algorithms
 
 ## 5 Cross validation
  - What are cross validation methods?
