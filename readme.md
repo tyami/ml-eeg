@@ -48,12 +48,15 @@ Machine learning study course for EEG
   - Multi layer Perceptron (MLP)
 - Unsupervised learning
   - Random Forest
-  - K-Nearnest Neighborhood (K-NN)
+  - K-Nearest Neighborhood (K-NN)
   - K-means clustering
 
 ## 5 Cross validation
- - What are cross validation methods?
+ - What is cross validation?
    - Leave-one-out cross validation
    - K-fold cross validation
  - Subject-wise leave-one-out cross validation
  - Across-subject leave-one-subject-out cross validation
+
+## Machine leaning terms
+ - Variance-Bias Trade-off
