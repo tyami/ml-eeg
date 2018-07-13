@@ -40,8 +40,9 @@ Machine learning study course for EEG
   - Partial Least Square (PLS)
   - Autoencoder (Non-linear)
 
-## [4 Classifier](https://github.com/tyami/ml-eeg/blob/master/ml_tyang.pdf)
+## [4 Classifier](https://github.com/tyami/ml-eeg/blob/master/ml_classifier.pdf)
 - Supervised learning
+  - Linear Regression
   - Naive Bayes Classifier
   - Discriminant Analysis (DA)
   - Support Vector Machine (SVM)
