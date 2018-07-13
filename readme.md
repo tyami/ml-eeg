@@ -3,7 +3,7 @@ Machine learning study course for EEG
 
 ## Study materials
 -
-
+js
 ## 1 Basics
 - What is machine learning?
 - Supervised and Unsupervised learning
