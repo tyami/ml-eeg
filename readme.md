@@ -3,7 +3,7 @@ Machine learning study course for EEG
 
 ## Study materials
 -
-js
+
 ## 1 Basics
 - What is machine learning?
 - Supervised and Unsupervised learning
@@ -40,7 +40,7 @@ js
   - Partial Least Square (PLS)
   - Autoencoder (Non-linear)
 
-## 4 Classifier
+## [4 Classifier](https://github.com/tyami/ml-eeg/blob/master/ml_tyang.pdf)
 - Supervised learning
   - Naive Bayes Classifier
   - Discriminant Analysis (DA)
