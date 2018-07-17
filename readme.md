@@ -40,7 +40,7 @@ Machine learning study course for EEG
   - Partial Least Square (PLS)
   - Autoencoder (Non-linear)
 
-## [4 Classifier](https://github.com/tyami/ml-eeg/blob/master/ml_classifier.pdf)
+## [4 Classifier](https://github.com/tyami/ml-eeg/blob/master/tyang_ml_classifier.pdf)
 - Supervised learning
   - Linear Regression
   - Naive Bayes Classifier
@@ -59,5 +59,13 @@ Machine learning study course for EEG
  - Subject-wise leave-one-out cross validation
  - Across-subject leave-one-subject-out cross validation
 
+## [6 Optimizer](https://github.com/tyami/ml-eeg/blob/master/tyang_ml_optimizer.pdf)
+ - Gradient descent
+   - Full-batch
+   - Stochastic
+   - Mini-batch
+ - Momentum
+ - Regularization (Weight decay)
+ 
 ## Machine leaning terms
  - Variance-Bias Trade-off
