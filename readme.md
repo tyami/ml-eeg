@@ -47,8 +47,8 @@ Machine learning study course for EEG
   - Discriminant Analysis (DA)
   - Support Vector Machine (SVM)
   - Multi layer Perceptron (MLP)
-- Unsupervised learning
   - Random Forest
+- Unsupervised learning
   - K-Nearest Neighborhood (K-NN)
   - K-means clustering
 
