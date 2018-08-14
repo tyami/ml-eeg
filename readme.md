@@ -28,8 +28,7 @@ Machine learning study course for EEG
     - DWT
     - CWT
 - Spatial properties
-  - Frontal Alpha Assymetry
-
+  - Frontal Alpha Assymetryp
 - Shrinking method
   - [LASSO: L1 norm](http://blueskyvision.tistory.com/193)
   - Ridge: L2 norm
