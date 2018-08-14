@@ -30,15 +30,26 @@ Machine learning study course for EEG
 - Spatial properties
   - Frontal Alpha Assymetry
 
-## 3 Feature selection
 - Shrinking method
   - [LASSO: L1 norm](http://blueskyvision.tistory.com/193)
   - Ridge: L2 norm
-- Dimension reduction
-  - Principal Component Analysis (PCA)
-  - Common Spatial Filter (CSP)
-  - Partial Least Square (PLS)
-  - Autoencoder (Non-linear)
+- Spatial filters
+  - Data independent
+    - Laplacian filter
+    - inverse solution-based approach
+  - Unsupervised
+    - Principal Component Analysis (PCA)
+    - Independent Component Anlaysis (ICA)
+  - Supervised
+    - Common Spatial Filter (CSP)
+    - Partial Least Square (PLS)
+    - xDAWN
+    - Fisher spatial filter
+
+## [3 Feature selection](https://github.com/tyami/ml-eeg/blob/master/tyang_ml_feature_selection.pdf)
+- Filter approach
+- Wrapper approach
+- Embedded approach
 
 ## [4 Classifier](https://github.com/tyami/ml-eeg/blob/master/tyang_ml_classifier.pdf)
 - Supervised learning
